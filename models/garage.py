@@ -4,3 +4,4 @@ class Garage(BaseModel):
     id: int
     name: str
     address: str
+    capacity: int
